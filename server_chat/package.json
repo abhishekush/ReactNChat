@@ -1,0 +1,10 @@
+{
+  "name": "socket-chat-server",
+  "version": "0.0.1",
+  "description": "server for react native app",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
